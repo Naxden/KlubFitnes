@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="758a1133-93c5-4990-a7ec-0468122f7d78" name="Changes" comment="Treninng grupowy query change" />
+    <list default="true" id="758a1133-93c5-4990-a7ec-0468122f7d78" name="Changes" comment="Treninng grupowy query change">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Rebasing Clean",
+    "git-widget-placeholder": "Clean",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Vecza/IntelliJ_Projects/KlubFitnes",
@@ -190,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710340114012</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Treninng grupowy query change">
+      <option name="closed" value="true" />
+      <created>1710342228849</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710342228849</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
