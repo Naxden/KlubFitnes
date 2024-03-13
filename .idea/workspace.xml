@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="758a1133-93c5-4990-a7ec-0468122f7d78" name="Changes" comment="Admin dodaje wszystkich pracowników oraz może ich usuwać (działa)">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/klubfitnes/ZapisTreningGrupowyKontroler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/klubfitnes/ZapisTreningGrupowyKontroler.java" afterDir="false" />
-    </list>
+    <list default="true" id="758a1133-93c5-4990-a7ec-0468122f7d78" name="Changes" comment="Treninng grupowy query change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -71,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Clean",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Vecza/IntelliJ_Projects/KlubFitnes",
@@ -123,7 +124,7 @@
       <workItem from="1686142928583" duration="58000" />
       <workItem from="1686142996090" duration="717000" />
       <workItem from="1710339246148" duration="336000" />
-      <workItem from="1710339608393" duration="305000" />
+      <workItem from="1710339608393" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="Podstawowe Logowanie">
       <created>1685470280200</created>
@@ -181,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1686514751160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Treninng grupowy query change">
+      <option name="closed" value="true" />
+      <created>1710340114012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710340114012</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +207,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="Clean" />
                       </list>
                     </value>
                   </entry>
@@ -221,7 +230,8 @@
     <MESSAGE value="Trener usuwa obydwa rodzaje treningów" />
     <MESSAGE value="Admin działaj plis" />
     <MESSAGE value="Admin dodaje wszystkich pracowników oraz może ich usuwać (działa)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin dodaje wszystkich pracowników oraz może ich usuwać (działa)" />
+    <MESSAGE value="Treninng grupowy query change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Treninng grupowy query change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
