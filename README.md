@@ -22,4 +22,4 @@ oraz [@Veczar](https://github.com/Veczar) w celu poszerzenia wiedzy i zdobyciu u
 
 
 ## Schemat Bazy Danych
-
+![image](https://github.com/Naxden/KlubFitnes/blob/master/src/main/assets/klubfit.png)
